@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 90" fill="none">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Pacifico&amp;display=swap');
+    </style>
+  </defs>
+  <text x="15" y="68" font-family="Pacifico, cursive" font-size="62" fill="#D95B4E" letter-spacing="-2">BulBul</text>
+</svg>
